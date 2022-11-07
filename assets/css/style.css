@@ -5030,5 +5030,13 @@ ol {
   font-size: 0.875rem;
   color: #28DBD1;
 }
+.mlogo{
+  display: none;
+}
+@media only screen and (max-width: 600px) {
+  .mlogo{
+    display: block;
+  }
+}
 
 /*# sourceMappingURL=style.css.map */
